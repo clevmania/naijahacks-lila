@@ -20,7 +20,7 @@ Education
 
 
 # Proposed Stack
-Language: Html, Css, Javascript
-Framework: Vue Js, Bootstrap
-Database: Firebase
-Design tool: Figma
+* Language: Html, Css, Javascript
+* Framework: Vue Js, Bootstrap
+* Database: Firebase
+* Design tool: Figma
